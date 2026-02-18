@@ -1,4 +1,3 @@
-# shoppingcart-demoC
-A basic input/output shopping cart program based on C ...<br>
-carret banana <br>
-mango
+# Mydemo-projects-in-C
+A basic input/output shopping cart program based in C ...<br>
+a exam marks calculator in c
